@@ -17,9 +17,9 @@ title: "Hello. I'm Yujie Song."
 email: 'yujie.song@mail.mcgill.ca'
 description: "Data Science | Computational Linguistics"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sssyj.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://github.com/sssyj/sssyj.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
-github_username: 'SSSYJ'
+# github_username: 'SSSYJ'
 # medium_username: 'blog.jamigibbs.com'
 
 # Build settings
